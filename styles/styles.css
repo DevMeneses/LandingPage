@@ -6,9 +6,9 @@
 }
 
 .container {
-  max-width: 1300px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 0 4%;
+  padding: 0 5%;
 }
 
 body {
@@ -23,7 +23,7 @@ nav {
 }
 
 nav .logo {
-  width: 180px;
+  width: 150px;
 }
 
 nav ul {
@@ -96,8 +96,8 @@ main .main__text h1 b{
   background-color: black;
   color: white;
   padding: 0 5 px;
-  font-size: 5rem;
-  border-radius: 30px;
+  font-size: 4rem;
+  border-radius: 20px;
 }
 
 main .main__text p {
