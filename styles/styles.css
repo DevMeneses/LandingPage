@@ -194,4 +194,8 @@ main .main__img img {
       font-size: 3rem;
     }
   }
+  
+  .footer input{
+    font-size: 10px;
+  }
 }
