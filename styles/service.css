@@ -89,7 +89,7 @@ section {
 
 .home-text h1 {
   font-size: 40px;
-  font-weight: 500;
+  font-weight: 800;
   color: #27963c;
 }
 
@@ -116,7 +116,7 @@ section {
 
 .about-text h1 {
   font-size: 40px;
-  font-weight: 500;
+  font-weight: 800;
   color: #27963c;
 }
 
@@ -145,7 +145,7 @@ section {
 
 .mob-text h1 {
   font-size: 40px;
-  font-weight: 500;
+  font-weight: 800;
   color: #27963c;
 }
 
@@ -174,7 +174,7 @@ section {
 
 .mob2-text h1 {
   font-size: 40px;
-  font-weight: 500;
+  font-weight: 800;
   color: #27963c;
 }
 
@@ -202,7 +202,7 @@ section {
 
 .mob3-text h1 {
   font-size: 40px;
-  font-weight: 500;
+  font-weight: 800;
   color: #27963c;
 }
 
@@ -214,12 +214,12 @@ section {
 }
 
 .footer h2 {
-  text-align: center;
-  font-weight: 600;
+ 
+  font-weight: 500;
 }
 
 .footer input {
-  margin: 20px;
+  margin: 30px;
   width: 30%;
   height: 40px;
   border-radius: 30px;
@@ -242,6 +242,8 @@ section {
   transform: scale(0.9);
   transition: 0.5s;
 }
+
+
 
 /* <==RESPONSIVIDADE ==> */
 
